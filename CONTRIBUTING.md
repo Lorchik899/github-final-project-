@@ -1,1 +1,1 @@
-Tutti i contributi, segnalazioni di bug, correzioni di bug, miglioramenti della documentazione, miglioramenti e idee sono benvenuti.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
